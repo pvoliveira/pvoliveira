@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**pvoliveira/pvoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Hi, I'm Paulo Oliveira, a Brazilian living in Portugal with my family. 
+> I'm a software engineer, working mostly with .NET since 2009,
+> but I've also explored other languages like Javascript, Python, Golang, and Rust.
+> In my free time, I love spending time with my family, going for walks in the park,
+> and enjoying coffee, beer, or wine.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about:
+  - `Kubernetes Operators`,
+  - `Web developing with HTMX (Templ) + Go`,
+  - and `C++` (CMake projects, actually).
